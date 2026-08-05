@@ -78,11 +78,6 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 
 ## 📡 `/bin/sysinfo` — Estadísticas del Sistema
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caubinelias&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&bg_color=0a0e27&title_color=FF007C&text_color=8BE9FD"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=caubinelias&theme=tokyonight&hide_border=true&background=0a0e27&fire=FF007C&ring=BD93F9&sideNums=8BE9FD&title=FF007C&currStreakLabel=8BE9FD" alt="Streak Stats"/>
 
