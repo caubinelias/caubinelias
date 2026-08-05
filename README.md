@@ -6,8 +6,7 @@
 
 <br/>
 
-
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:FF007C,50:BD93F9,100:8BE9FD&height=90&section=header&text=%3C%2F%3E%20HACKING%20THE%20MAINFRAME&fontSize=18&fontColor=0a0e27&animation=twinkling" width="60%"/>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Mr Robot Hacker GIF" width="260" style="border: 2px solid #BD93F9; border-radius: 12px;"/>
 
 <br/><br/>
 
@@ -21,6 +20,7 @@
 
 ## 👾 `/whoami` — Sobre Mí
 
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" alt="Tech Floating GIF" width="220" style="border-radius: 10px; border: 2px solid #FF007C;"/>
 
 ```yaml
 usuario: Elías Caubín
@@ -87,7 +87,7 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caubinelias&theme=tokyo-night&bg_color=0a0e27&color=FF007C&line=BD93F9&point=8BE9FD&hide_border=true" alt="Activity Graph" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=caubinelias&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophy Stats" width="90%"/>
 
 </div>
 
