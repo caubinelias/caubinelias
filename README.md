@@ -10,7 +10,7 @@
 
   <br />
   
-  <!-- CONTACTO DIRECTO ACTUALIZADO -->
+  <!-- CONTACTO DIRECTO -->
   <a href="https://www.linkedin.com/in/el%C3%ADas-caubin-78333234b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:caubinelias@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -29,8 +29,8 @@ Soy un desarrollador apasionado que fusiona la lógica del backend con el análi
 Cuando no estoy auditando código o programando, me encontrarás explorando nuevos mundos en el anime o perfeccionando mi setup en Arch Linux. Mi objetivo es convertirme en un experto en seguridad ofensiva (pentesting) y contribuir a un ciberespacio más seguro.
 
 - 🎓 **Formación:** Ciclo Superior DAM + DAW.
-- 🛡️ **Intereses:** Ética Hacker, Seguridad Web, Criptografía, Redes Privadas.
-- ⚙️ **Sistemas:** Principalmente Arch Linux (y Windows para gaming/compatibilidad).
+- 🛡️ **Intereses:** Ética Hacker, Seguridad Web, CPT/Pentesting, Redes Privadas.
+- ⚙️ **Sistemas:** Arch Linux, macOS y Windows.
 
 <br />
 
@@ -74,7 +74,6 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 ## 📊 Estadísticas de GitHub (`/stats`)
 
 <div align="center">
-  <!-- Sustituye OtakuGamerMax por tu usuario exacto de GitHub si fuera diferente -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caubinelias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caubinelias&layout=compact&theme=tokyonight&hide=html,css&hide_border=true"/>
 </div>
@@ -82,7 +81,7 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OtakuGamerMax&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caubinelias&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br />
@@ -97,9 +96,8 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| [🔒 Gestor de Red Doméstica] | Aplicación para monitorizar y gestionar todos los dispositivos de la red local. | Java, Python, Network APIs |
-| [🌐 API REST Segura] | Servicio Backend enfocado en buenas prácticas de seguridad, autenticación y cifrado. | Java, Spring Boot, JWT |
-| [📝 Homelab & Sync] | Entorno de sincronización y despliegue de servicios en infraestructura propia. | Docker, Linux, Shell |
+| [📚 Apuntes DAM y DAW Intensivo](https://github.com/caubinelias/Apuntes-ciclo-superior-DAM-y-DAW-intensivo) | Recopilación de recursos, ejercicios y documentación del ciclo de Desarrollo de Aplicaciones. | Markdown, Java, Web |
+| [🎨 Portfolio](https://github.com/caubinelias/Portfolio) | Mi sitio web personal para mostrar proyectos, conocimientos y contacto. | HTML, CSS, JavaScript |
 
 </div>
 
@@ -107,5 +105,5 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OtakuGamerMax&color=BD93F9&style=flat-square&label=VISITAS+AL+PERFIL" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=caubinelias&color=BD93F9&style=flat-square&label=VISITAS+AL+PERFIL" alt="Contador de Visitas" />
 </div>
