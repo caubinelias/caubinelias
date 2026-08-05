@@ -6,7 +6,8 @@
 
 <br/>
 
-<img src="https://github-readme-utils.vercel.app/api/gif/anime?height=260" alt="Anime GIF" width="260" style="border: 2px solid #BD93F9; border-radius: 12px;"/>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:FF007C,50:BD93F9,100:8BE9FD&height=90&section=header&text=%3C%2F%3E%20HACKING%20THE%20MAINFRAME&fontSize=18&fontColor=0a0e27&animation=twinkling" width="60%"/>
 
 <br/><br/>
 
@@ -20,7 +21,6 @@
 
 ## 👾 `/whoami` — Sobre Mí
 
-<img src="https://github-readme-utils.vercel.app/api/gif/hacking" align="right" alt="Hacking GIF" width="220" style="border-radius: 10px; border: 2px solid #FF007C;"/>
 
 ```yaml
 usuario: Elías Caubín
@@ -38,8 +38,6 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 - 🛡️ **Intereses:** Ética Hacker · Seguridad Web · CTF/Pentesting · Redes Privadas
 - ⚙️ **Sistemas:** Arch Linux · macOS · Windows
 - 🍥 **Modo offline:** Maratón de anime + soundtrack lo-fi
-
-<br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:0a0e27&height=2" width="100%"/>
 
@@ -78,6 +76,12 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 
 ## 📡 `/bin/sysinfo` — Estadísticas del Sistema
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caubinelias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e27&title_color=FF007C&text_color=8BE9FD&icon_color=BD93F9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caubinelias&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&bg_color=0a0e27&title_color=FF007C&text_color=8BE9FD"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=caubinelias&theme=tokyonight&hide_border=true&background=0a0e27&fire=FF007C&ring=BD93F9&sideNums=8BE9FD&title=FF007C&currStreakLabel=8BE9FD" alt="Streak Stats"/>
 
