@@ -1,16 +1,16 @@
 # <!-- Encabezado principal -->
 <div align="center">
-  <!-- BANNER ANIMADO ESTILO ANIME CIBERSEGURIDAD -->
+ 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g5Z3pxdWxlZzRoM3B2ZzQ5Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z/giphy.gif" alt="Anime Cyberpunk Banner" width="100%" />
 
   <br />
 
-  <!-- EFECTO DE ESCRITURA ANIMADO -->
+ 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Estudiante+de+DAM+%2B+DAW;Backend+Developer;Entusiasta+de+la+Ciberseguridad;Gamer+%26+Otaku" alt="Typing SVG" />
 
   <br />
   
-  <!-- CONTACTO DIRECTO -->
+
   <a href="https://www.linkedin.com/in/el%C3%ADas-caubin-78333234b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:caubinelias@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -40,26 +40,26 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 
 <div align="center">
 
-<!-- LENGUAJES -->
+
 ### Desarrollo Backend & Scripting
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<!-- WEB -->
+
 ### Desarrollo Web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!-- CIBERSEGURIDAD Y REDES -->
+
 ### Ciberseguridad & Infraestructura
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-881717?style=for-the-badge&logo=wireguard&logoColor=white)
 
-<!-- HERRAMIENTAS -->
+
 ### Herramientas & Otros
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
@@ -71,17 +71,28 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 
 ---
 
-## 📊 Estadísticas de GitHub (`/stats`)
+## 📊 Estadísticas del Sistema (`/bin/sysinfo`)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caubinelias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caubinelias&layout=compact&theme=tokyonight&hide=html,css&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caubinelias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b26&title_color=bd93f9&text_color=a9b1d6&icon_color=bd93f9"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caubinelias&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&bg_color=1a1b26&title_color=bd93f9&text_color=a9b1d6"/>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caubinelias&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caubinelias&theme=tokyonight&hide_border=true&background=1a1b26&fire=ff007c&ring=bd93f9&seg=fdfdfd&sideNums=bd93f9&title=bd93f9" alt="Streak Stats" />
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=caubinelias&color=BD93F9&style=flat-square&label=VISITAS+AL+PERFIL" alt="Contador de Visitas" />
 </div>
 
 <br />
