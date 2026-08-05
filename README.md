@@ -75,8 +75,8 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 
 <div align="center">
   <!-- Sustituye OtakuGamerMax por tu usuario exacto de GitHub si fuera diferente -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtakuGamerMax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtakuGamerMax&layout=compact&theme=tokyonight&hide=html,css&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caubinelias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caubinelias&layout=compact&theme=tokyonight&hide=html,css&hide_border=true"/>
 </div>
 
 <br />
