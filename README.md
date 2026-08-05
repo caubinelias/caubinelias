@@ -88,16 +88,19 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 
 ---
 
-## 💻 Mis Proyectos Destacados (`/bin/projects`)
+## 💻 Mis Proyectos Públicos (`/bin/projects`)
 
 <br />
 
 <div align="center">
 
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| [📚 Apuntes DAM y DAW Intensivo](https://github.com/caubinelias/Apuntes-ciclo-superior-DAM-y-DAW-intensivo) | Recopilación de recursos, ejercicios y documentación del ciclo de Desarrollo de Aplicaciones. | Markdown, Java, Web |
-| [🎨 Portfolio](https://github.com/caubinelias/Portfolio) | Mi sitio web personal para mostrar proyectos, conocimientos y contacto. | HTML, CSS, JavaScript |
+| Proyecto | Descripción | Tecnologías | Estado |
+| :--- | :--- | :--- | :---: |
+| [📚 Apuntes DAM y DAW Intensivo](https://github.com/caubinelias/Apuntes-ciclo-superior-DAM-y-DAW-intensivo) | Apuntes y tareas del ciclo dual DAM + DAW (Comunidad de Madrid). | HTML, Java, Docs | 🟢 Activo |
+| [📦 CatchBox-](https://github.com/caubinelias/CatchBox-) | Organizador de descargas automatizado para clasificar archivos por categorías. | Python | 🟢 Activo |
+| [🎨 Portfolio](https://github.com/caubinelias/Portfolio) | Sitio web personal con portfolio interactivo y CV para empresas. | HTML, CSS, JS | 🟢 Activo |
+| [🌸 Jellyfin_sakura](https://github.com/caubinelias/Jellyfin_sakura) | Estilo CSS personalizado y tematizado para servidor multimedia Jellyfin. | CSS | 🟢 Activo |
+| [👤 caubinelias](https://github.com/caubinelias/caubinelias) | Repositorio especial con la configuración y métricas de mi perfil de GitHub. | Markdown | 🟢 Activo |
 
 </div>
 
