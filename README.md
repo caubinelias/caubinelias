@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Mr Robot Hacker GIF" width="260" style="border: 2px solid #BD93F9; border-radius: 12px;"/>
+<img src="https://github-readme-utils.vercel.app/api/gif/anime?height=260" alt="Anime GIF" width="260" style="border-radius: 12px; border: 2px solid #BD93F9;"/>
 
 <br/><br/>
 
@@ -87,7 +87,7 @@ Cuando no estoy auditando código o programando, me encontrarás explorando nuev
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=caubinelias&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophy Stats" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=caubinelias&theme=dracula&column=6&margin-w=10&margin-h=10" alt="Trophy Stats" width="90%"/>
 
 </div>
 
